@@ -32,4 +32,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashish-0070/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashish-0070/code/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashish-0070/code/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashish-0070/code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
