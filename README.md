@@ -59,4 +59,5 @@
 | ------- |
 | [0577-employee-bonus](https://github.com/Ashish-0070/code/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ashish-0070/code/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Ashish-0070/code/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
