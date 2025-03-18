@@ -13,6 +13,7 @@
 | [0141-linked-list-cycle](https://github.com/Ashish-0070/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashish-0070/code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Ashish-0070/code/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashish-0070/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -70,9 +71,15 @@
 | [0155-min-stack](https://github.com/Ashish-0070/code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ashish-0070/code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-0070/code/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ashish-0070/code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-0070/code/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
+## Array
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
