@@ -82,4 +82,16 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
