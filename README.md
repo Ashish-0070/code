@@ -87,11 +87,13 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
 ## Memoization
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
