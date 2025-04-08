@@ -92,6 +92,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 ## Math
@@ -118,6 +119,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
 ## Monotonic Stack
 |  |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
 |  |
 | ------- |
