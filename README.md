@@ -35,6 +35,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-0070/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ashish-0070/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashish-0070/code/tree/master/0142-linked-list-cycle-ii) |
 ## String
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-0070/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ashish-0070/code/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ashish-0070/code/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
@@ -107,6 +110,7 @@
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
@@ -114,6 +118,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,4 +167,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
