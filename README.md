@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ashish-0070/code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ashish-0070/code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Ashish-0070/code/tree/master/0125-valid-palindrome) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashish-0070/code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ashish-0070/code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ashish-0070/code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-0070/code/tree/master/0232-implement-queue-using-stacks) |
@@ -81,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
@@ -94,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
@@ -116,4 +120,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
