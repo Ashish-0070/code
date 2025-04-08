@@ -33,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ashish-0070/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashish-0070/code/tree/master/0142-linked-list-cycle-ii) |
 ## String
@@ -85,6 +86,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
