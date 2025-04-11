@@ -100,6 +100,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
+| [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
@@ -188,4 +189,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
+## Sorting
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
