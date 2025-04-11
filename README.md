@@ -101,6 +101,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Sorting
 |  |
 | ------- |
