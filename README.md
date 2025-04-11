@@ -102,6 +102,7 @@
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Ashish-0070/code/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Ashish-0070/code/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Ordered Set
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Ashish-0070/code/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Sorting
 |  |
 | ------- |
