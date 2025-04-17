@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
@@ -95,6 +96,7 @@
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Sliding Window
@@ -183,6 +186,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph
 |  |
@@ -202,4 +206,8 @@
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
