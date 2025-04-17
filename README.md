@@ -237,4 +237,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Ashish-0070/code/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
