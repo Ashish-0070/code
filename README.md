@@ -101,6 +101,7 @@
 | [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Ashish-0070/code/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
@@ -127,6 +128,7 @@
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Ashish-0070/code/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
