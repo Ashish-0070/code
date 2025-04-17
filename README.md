@@ -39,6 +39,7 @@
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ashish-0070/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashish-0070/code/tree/master/0142-linked-list-cycle-ii) |
+| [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
+| [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ashish-0070/code/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Ordered Set
 |  |
@@ -213,12 +216,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ashish-0070/code/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 ## Union Find
 |  |
@@ -226,4 +231,8 @@
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ashish-0070/code/tree/master/0547-number-of-provinces) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
