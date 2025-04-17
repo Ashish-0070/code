@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Database
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ashish-0070/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-0070/code/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ashish-0070/code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ashish-0070/code/tree/master/0198-house-robber) |
@@ -192,6 +195,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
