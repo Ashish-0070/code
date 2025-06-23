@@ -98,6 +98,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ashish-0070/code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
@@ -154,6 +155,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ashish-0070/code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
 ## Monotonic Stack
