@@ -120,6 +120,7 @@
 | [0621-task-scheduler](https://github.com/Ashish-0070/code/tree/master/0621-task-scheduler) |
 | [0859-design-circular-deque](https://github.com/Ashish-0070/code/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/Ashish-0070/code/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ashish-0070/code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ashish-0070/code/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ashish-0070/code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ashish-0070/code/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -166,6 +167,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-0070/code/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Ashish-0070/code/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ashish-0070/code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Monotonic Stack
 |  |
 | ------- |
