@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Database
 |  |
@@ -107,6 +109,7 @@
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-0070/code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashish-0070/code/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ashish-0070/code/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashish-0070/code/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/Ashish-0070/code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish-0070/code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Combinatorics
@@ -254,4 +258,8 @@
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/Ashish-0070/code/tree/master/0461-hamming-distance) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
