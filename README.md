@@ -48,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/Ashish-0070/code/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ashish-0070/code/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ashish-0070/code/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashish-0070/code/tree/master/0547-number-of-provinces) |
 ## Graph
@@ -271,4 +275,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
