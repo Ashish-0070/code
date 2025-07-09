@@ -64,6 +64,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0127-word-ladder](https://github.com/Ashish-0070/code/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashish-0070/code/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -80,6 +82,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashish-0070/code/tree/master/0547-number-of-provinces) |
 ## Graph
