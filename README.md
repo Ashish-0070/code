@@ -53,12 +53,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashish-0070/code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ashish-0070/code/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-0070/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Ashish-0070/code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ashish-0070/code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-0070/code/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-0070/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -74,6 +76,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-0070/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -219,6 +222,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-0070/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
