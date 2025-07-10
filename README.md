@@ -65,6 +65,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Ashish-0070/code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -73,6 +74,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Ashish-0070/code/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/Ashish-0070/code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashish-0070/code/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -84,6 +86,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashish-0070/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashish-0070/code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Ashish-0070/code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
 ## Database
@@ -231,6 +234,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-0070/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-0070/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ashish-0070/code/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/Ashish-0070/code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashish-0070/code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ashish-0070/code/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashish-0070/code/tree/master/0257-binary-tree-paths) |
